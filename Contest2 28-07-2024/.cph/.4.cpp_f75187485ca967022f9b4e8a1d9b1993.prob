@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\PTIT\\ICPC2024\\Contest2 28-7-2024\\4.cpp","tests":[{"id":1722148226033,"input":"2 2\n\n10\n\n11","output":"2"},{"id":1722148231007,"input":"3 4\n\n001\n\n111\n\n101\n\n011","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PTIT\\ICPC2024\\Contest2 28-7-2024\\4.cpp","group":"local","local":true}

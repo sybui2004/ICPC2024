@@ -1,0 +1,1 @@
+{"name":"Local: B6","url":"d:\\PTIT\\ICPC2024\\B6.cpp","tests":[{"id":1721547601444,"input":"4\n\n1 2 3 4 5\n\n1 2 4 20 8\n\n20 9 8 7 6\n\n150 160 170 180 190","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PTIT\\ICPC2024\\B6.cpp","group":"local","local":true}
