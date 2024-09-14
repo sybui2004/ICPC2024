@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\PTIT\\ICPC2024\\Contest7 01-09-2024\\J.cpp","tests":[{"id":1725174962056,"input":"8\n10 13 11 13 11 12 10 12\n1 2\n1 3\n2 4\n2 5\n3 6\n4 7\n4 8\n5\ncom 4\nadd 1 6 2\ncom 4\nadd 7 7 5\ncom 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PTIT\\ICPC2024\\Contest7 01-09-2024\\J.cpp","group":"local","local":true}
